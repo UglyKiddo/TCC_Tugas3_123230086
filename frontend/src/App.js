@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 
-const API = "https://notes-backend-118865344431.asia-southeast1.run.app";
+const API = "https://t3-086-be-118865344431.us-central1.run.app";
 
 const globalStyles = `
   @import url('https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@300;400;500;600&family=DM+Sans:wght@300;400;500;600&display=swap');
